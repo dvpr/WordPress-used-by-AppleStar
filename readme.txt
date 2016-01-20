@@ -1,0 +1,1 @@
+Init wordpress by AppleStar
